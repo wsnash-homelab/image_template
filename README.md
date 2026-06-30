@@ -9,7 +9,7 @@
 
 ## Description
 
-[![Container Image](https://img.shields.io/badge/ghcr.io-wsnash--homelab%[REPO_NAME]%3Alatest-2496ED?logo=docker&logoColor=white)](https://github.com/wsnash-homelab/[REPO_NAME]/pkgs/container/[REPO_NAME])
+[![Container Image](https://img.shields.io/badge/ghcr.io-wsnash--homelab%2F[REPO_NAME]%3Alatest-2496ED?logo=docker&logoColor=white)](https://github.com/wsnash-homelab/[REPO_NAME]/pkgs/container/[REPO_NAME])
 
 Add a meaningful description
 
