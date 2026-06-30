@@ -1,11 +1,11 @@
 # WHAT TO UPDATE:
-1. Update `STACK NAME` below
+1. Update `IMAGE NAME` below
 2. Update Badge below and replace `[REPO_NAME]`
 3. Update [Description](#description) explaining what the stack is
 4. Update [Configurables](#configurables)
 5. After the Stack is successfully deployed, Update [Notes/ Learned Mistakes](#notes-learned-mistakes)
 
-# STACK NAME
+# IMAGE NAME
 
 ## Description
 
